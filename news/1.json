@@ -1,0 +1,34 @@
+{
+	"results" : [
+		{
+		private String id;
+    private String name;
+    private String link;
+    private String thumb;
+    private String source_text_color;
+    private String source_back_color;
+    private String tag_text_color;
+    private String tag_back_color;
+			"id":"1",
+			"name":"Test Gazetesi";
+			"link":"www.google.com";
+			"thumb":"";
+			"source_text_color":"";
+			"source_back_color":"";
+			"tag_text_color":"";
+			"tag_back_color":"";
+			"rssMap":
+			{
+				"item":""
+                "title":""
+                "link":""
+                "author":""
+                "category":""
+                "media":""
+                "description":""
+                "content":""
+                "pubdate":""
+			};
+		},
+	]
+}
