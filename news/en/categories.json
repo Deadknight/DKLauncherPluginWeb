@@ -2,75 +2,75 @@
 	"results" : [
 		{
 			"id":"1",
-			"name":"World";
-			"thumb":"";
-			"text_color":"";
-			"back_color":"";
-			"rss":["1"];
+			"name":"World",
+			"thumb":"",
+			"text_color":"",
+			"back_color":"",
+			"rss":["1"]
 		},
 		{
 			"id":"2",
-			"name":"Economy";
-			"thumb":"";
-			"text_color":"";
-			"back_color":"";
-			"rss":["1"];
+			"name":"Economy",
+			"thumb":"",
+			"text_color":"",
+			"back_color":"",
+			"rss":["1"]
 		},
 		{
 			"id":"3",
-			"name":"Politics";
-			"thumb":"";
-			"text_color":"";
-			"back_color":"";
-			"rss":["1"];
+			"name":"Politics",
+			"thumb":"",
+			"text_color":"",
+			"back_color":"",
+			"rss":["1"]
 		},
 		{
 			"id":"4",
-			"name":"Sports";
-			"thumb":"";
-			"text_color":"";
-			"back_color":"";
-			"rss":["1"];
+			"name":"Sports",
+			"thumb":"",
+			"text_color":"",
+			"back_color":"",
+			"rss":["1"]
 		},
 		{
 			"id":"5",
-			"name":"Technology";
-			"thumb":"";
-			"text_color":"";
-			"back_color":"";
-			"rss":["1"];
+			"name":"Technology",
+			"thumb":"",
+			"text_color":"",
+			"back_color":"",
+			"rss":["1"]
 		},
 		{
 			"id":"6",
-			"name":"Life";
-			"thumb":"";
-			"text_color":"";
-			"back_color":"";
-			"rss":["1"];
+			"name":"Life",
+			"thumb":"",
+			"text_color":"",
+			"back_color":"",
+			"rss":["1"]
 		},		
 		{
 			"id":"7",
 			"name":"Family And Children"
-			"thumb":"";
-			"text_color":"";
-			"back_color":"";
-			"rss":["1"];
+			"thumb":"",
+			"text_color":"",
+			"back_color":"",
+			"rss":["1"]
 		},
 		{
 			"id":"8",
-			"name":"Culture/Art";
-			"thumb":"";
-			"text_color":"";
-			"back_color":"";
-			"rss":["1"];
+			"name":"Culture/Art",
+			"thumb":"",
+			"text_color":"",
+			"back_color":"",
+			"rss":["1"]
 		},
 		{
 			"id":"9",
-			"name":"Health";
-			"thumb":"";
-			"text_color":"";
-			"back_color":"";
-			"rss":["1"];
+			"name":"Health",
+			"thumb":"",
+			"text_color":"",
+			"back_color":"",
+			"rss":["1"]
 		}
 	]
 }
