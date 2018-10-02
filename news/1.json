@@ -1,34 +1,26 @@
 {
 	"results" : [
 		{
-		private String id;
-    private String name;
-    private String link;
-    private String thumb;
-    private String source_text_color;
-    private String source_back_color;
-    private String tag_text_color;
-    private String tag_back_color;
 			"id":"1",
-			"name":"Test Gazetesi";
-			"link":"www.google.com";
-			"thumb":"";
-			"source_text_color":"";
-			"source_back_color":"";
-			"tag_text_color":"";
-			"tag_back_color":"";
+			"name":"Engadget",
+			"link":"https://www.engadget.com/rss.xml",
+			"thumb":"https://s.blogsmithmedia.com/www.engadget.com/assets-h3c4ff58a7162795b6cc366d0d08cc50d/images/apple-touch-icon-144x144.png?h=de656b4889f628881dabd59b88d24460",
+			"source_text_color":"",
+			"source_back_color":"",
+			"tag_text_color":"",
+			"tag_back_color":"",
 			"rssMap":
 			{
-				"item":""
-                "title":""
-                "link":""
-                "author":""
-                "category":""
-                "media":""
-                "description":""
-                "content":""
-                "pubdate":""
-			};
-		},
+				"item":"item",
+                "title":"title",
+                "link":"link",
+                "author":"dc:creator",
+                "category":"category",
+                "media":"",
+                "description":"description",
+                "content":"",
+                "pubdate":"pubDate"
+			}
+		}
 	]
 }
