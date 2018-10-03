@@ -9,6 +9,7 @@
 			"source_back_color":"",
 			"tag_text_color":"",
 			"tag_back_color":"",
+			"lang":"",
 			"rssMap":
 			{
 				"item":"item",
